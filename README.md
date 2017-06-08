@@ -7,6 +7,8 @@ When deleting an item, the user has an option to either mark it as "eaten" or "b
 
 Eat Me also lets users look up recipes specifically based on the items that are soon to expire.
 
+[Video](https://www.youtube.com/watch?v=-r_Ko57ktZw&feature=youtu.be)
+
 *The app was built in 8 days using React Native.*
 
 ![alt text](http://i.imgur.com/6WTJeRP.jpg)
